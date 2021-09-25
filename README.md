@@ -3,6 +3,7 @@ Social media DNS Blocklists for Pihole/AdGuard.
 
 ## Usage
 
+
 # Pi-Hole
 1. Login into `Pi-hole admin`
 2. Navigate to `Settings`
